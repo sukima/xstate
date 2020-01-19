@@ -11,7 +11,19 @@
     "@xstate/scxml": "0.2.1",
     "@xstate/test": "0.1.0",
     "@xstate/viz": "0.1.0",
-    "@xstate/viz-example": "1.0.0"
+    "@xstate/viz-example": "1.0.0",
+    "@xstate/vue": "0.0.1"
   },
-  "changesets": []
+  "changesets": [
+    "big-jeans-wait",
+    "eighty-coins-tease",
+    "green-apes-heal",
+    "lazy-windows-tan",
+    "mighty-coats-beam",
+    "neat-files-switch",
+    "shy-walls-develop",
+    "sixty-hornets-allow",
+    "slow-apples-dance",
+    "yellow-weeks-visit"
+  ]
 }
